@@ -1,6 +1,7 @@
 # Global Covid Data Exploration Project
 This is a personal project using MySQL where I analyzed Global COVID Data from the start of the pandemic to January 2022. 
 I found insights on Global Deaths, Infections, etc. and created an interactive tableau visualization to complement the analysis.
+Check out the Tableau Visualization [here](https://public.tableau.com/app/profile/krishna.tej.bhat7962/viz/GlobalCOVID-19DataAsofJanuary2022/Dashboard1)
 
 
 # SentimentAnalysis on FINVIZ Data
