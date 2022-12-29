@@ -16,6 +16,6 @@ This project analyses the number of daily sales of a company. The dataset also h
 # Video Games Exploratory Data Analysis (SQL)
 This project performs an Exploratory Data Analysis on a video games database that has information pertaining to a video game's developer, the platform it can be played on, the total sales in a certain region, etc. I have found some interesting insights using combinations of these featues to both gain an understanding about the different video games in the database and also to showcase my ability in SQL Commands.
 
-# Rotten Tomatoes Status Prediction (Python, Pandas, RandomForest)
+# Movie Status Prediction (Python, Pandas, RandomForest)
 This project attempts to predict the status of different movies in the Rotten Tomatoes database. It explores two different approaches: First, using categorical and numerical columns in a RandomForest Classifier to predict the status; Second, using Sentimental Analysis on Critics Reviews to Predict the Status of the movie.
 
