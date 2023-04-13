@@ -1,4 +1,3 @@
-# PortfolioProjects
-These are topics that I find interesting and I actively try to analyze different aspects of them using SQL and Python.
-Head to the PortfolioProjects Branch to see more.
+## This repo no longer exists. Please head to my repositories to see my projects!
 
+Link to my repositories -> https://github.com/KTB2110?tab=repositories 
